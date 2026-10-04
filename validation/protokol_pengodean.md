@@ -1,6 +1,6 @@
 # Protokol anotasi validasi (ditetapkan 4 Oktober 2026, sebelum membaca sampel)
 
-Pengode: model AI (Claude), buta terhadap label FinBERT dan label topik BERTopic.
+Pengode: model bahasa besar (large language model), buta terhadap label FinBERT dan label topik BERTopic.
 Sampel: 600 komentar, acak bertingkat 2 aset x 3 label FinBERT x 100 (seed 20261004), urutan diacak (seed 7).
 Unit: satu komentar (maksimal 600 karakter, seperti input model).
 
