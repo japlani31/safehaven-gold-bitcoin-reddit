@@ -1,0 +1,5 @@
+R version 4.6.0
+ConnectednessApproach (1.0.0)
+zoo
+tseries
+rmgarch

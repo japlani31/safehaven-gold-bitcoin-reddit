@@ -1,0 +1,14 @@
+asset,topic,new_label,reason
+crypto,12,SPEC,"prediksi harga (btc 100k) = spekulasi, bukan hedge"
+crypto,13,SPEC,obrolan market cap/harga koin
+crypto,52,DROP,"infrastruktur exchange/wallet, bukan narasi"
+crypto,1,DROP,"r/CC Moons token = meta-komunitas, bukan pasar"
+crypto,3,GEN,"diskusi nilai bitcoin umum, bukan hedge spesifik"
+crypto,2,GEN,obrolan crypto vs stocks umum
+crypto,29,GEN,"gosip tokoh (CEO/SBF/CZ), sentimen relevan"
+gold,0,GEN,"catch-all obrolan emas; sentimen relevan, bukan narasi"
+gold,13,DROP,sampah semantik (gloves/chicken)
+gold,60,DROP,"cerita warisan keluarga, bukan pasar"
+gold,14,DROP,"perhiasan/konsumsi, bukan investasi"
+gold,11,HEDGE,budaya stacking = akumulasi store-of-value
+gold,12,GEN,diskusi produk koin (eagle/buffalo)

@@ -1,0 +1,3 @@
+asset,fb_NEG,ai_NEG,prec_NEG,fb_NEU,ai_NEU,prec_NEU,fb_POS,ai_POS,prec_POS,agree_sent,agree_narr,X_share,hs_ai,hs_bt
+crypto,9.825,17.088,31.0,86.317,62.688,65.0,3.858,20.224,66.0,61.698,53.343,24.6,0.127,0.238
+gold,6.37,8.773,21.0,90.865,85.705,88.0,2.765,5.522,36.0,82.294,23.482,10.208,0.777,0.695

@@ -1,0 +1,11 @@
+pandas==2.3.3
+numpy
+scipy
+pyarrow
+zstandard
+torch==2.11.0+cu128  # --index-url https://download.pytorch.org/whl/cu128 ; CPU build also works
+bertopic==0.17.4
+sentence-transformers==5.6.0
+transformers
+accelerate
+matplotlib

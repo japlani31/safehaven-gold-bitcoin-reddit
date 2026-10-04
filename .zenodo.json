@@ -1,0 +1,12 @@
+{
+  "title": "Replication package: Safe-haven talk or speculative trade? Reddit narratives and shock transmission between gold and Bitcoin",
+  "upload_type": "software",
+  "description": "Scripts, derived daily indices, output tables, figures, and validation labels for the study of Reddit narratives and shock transmission between gold and Bitcoin (2017 to 2025). Reddit comment texts are not redistributed.",
+  "creators": [
+    {"name": "Japlani, Ardiansyah", "affiliation": "Universitas Lampung; Universitas Muhammadiyah Metro", "orcid": "0009-0008-8255-4045"},
+    {"name": "Hendrawaty, Ernie", "affiliation": "Universitas Lampung", "orcid": "0000-0001-8798-9947"},
+    {"name": "Febrianto, Igo", "affiliation": "Universitas Lampung"}
+  ],
+  "license": "MIT",
+  "keywords": ["safe haven", "cryptocurrency", "gold", "narrative economics", "BERTopic", "TVP-VAR connectedness"]
+}

@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this package, please cite it as below."
+title: "Replication package: Safe-haven talk or speculative trade? Reddit narratives and shock transmission between gold and Bitcoin"
+version: 1.0.0
+date-released: 2026-10-04
+license: MIT
+authors:
+  - family-names: Japlani
+    given-names: Ardiansyah
+    orcid: "https://orcid.org/0009-0008-8255-4045"
+    affiliation: "Universitas Lampung; Universitas Muhammadiyah Metro"
+  - family-names: Hendrawaty
+    given-names: Ernie
+    orcid: "https://orcid.org/0000-0001-8798-9947"
+    affiliation: "Universitas Lampung"
+  - family-names: Febrianto
+    given-names: Igo
+    affiliation: "Universitas Lampung"
