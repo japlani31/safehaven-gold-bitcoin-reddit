@@ -1,5 +1,7 @@
 # Replication package: Safe-haven talk or speculative trade? Reddit narratives and shock transmission between gold and Bitcoin
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23132606.svg)](https://doi.org/10.5281/zenodo.23132606)
+
 Authors: Ardiansyah Japlani (Universitas Lampung; Universitas Muhammadiyah Metro), Ernie Hendrawaty (Universitas Lampung), Igo Febrianto (Universitas Lampung).
 
 ## Contents
